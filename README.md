@@ -6,7 +6,7 @@
 This script helps football/soccer organizers create two evenly matched teams from a pool of players. It:
 
 1. Takes player data with name, strength ratings (1-10), and positions (ATT, DEF, GK, or ATT/DEF)
-2. Generates all possible team combinations
+2. Generates the best 5 combinations
 3. Filters for teams that satisfy formation requirements (e.g., 3 attackers, 3 defenders, 1 goalkeeper)
 4. Ranks combinations by how balanced they are (minimal strength difference)
 5. Visualizes the top balanced team setups on a football pitch using matplotlib
