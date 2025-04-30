@@ -11,6 +11,8 @@ This script helps football/soccer organizers create two evenly matched teams fro
 4. Ranks combinations by how balanced they are (minimal strength difference)
 5. Visualizes the top balanced team setups on a football pitch using matplotlib
 
+![alt text]([https://github.com/lucavauda/BalancedTeams/blob/main/output_image.png?raw=true)
+
 ## Features
 
 - **Smart Team Balancing**: Finds the most balanced teams based on player strength
